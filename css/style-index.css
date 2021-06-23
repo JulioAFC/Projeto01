@@ -1,0 +1,60 @@
+header{
+    display: block;
+    text-align: center;
+    padding: 25px;
+    background: #fe0000;
+    
+}
+h1{
+    display: inline;
+    border: whitesmoke 5px;
+    margin-left: 5px;
+    font-family:'Josefin Sans', sans-serif;
+    font-style: oblique;
+    font-weight: 100;
+    font-size: 30px;
+    border-style:double;
+    border-spacing: 5px;
+    text-align: center;
+}
+.banner{
+    display: inline-block;
+    width: 80%;
+    height: 30px;
+    margin-left: 0px;
+    padding-left: 0px;   
+}
+h2{
+    font-family:'Fira Sans', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 500;
+    background: #fe0000;
+    text-align: center;
+}
+p{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+.whats{
+    position: fixed;
+    size: 5px;
+    right: 0px;
+    bottom: 0px;
+    
+}
+footer{
+    text-align: center;
+}
+.icons{
+    background-color: black;
+    
+}
+.icon{width: 60px;
+    height: 60px;
+    padding-left: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 150px;
+}
